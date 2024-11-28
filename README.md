@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Klebya Sales.
 
-- 🌱 Estudando HTML, Java Script, CSS e Apex.
+- 🌱 Trabalhando com HTML, JavaScript, CSS, Apex, React...
 
 <div>
   <a href="https://github.com/Klebya-Sales">
